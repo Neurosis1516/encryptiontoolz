@@ -1,1 +1,129 @@
-LyogCgpTZWNTcGlyaXQgLSAyMDIwCgoqLwpAZm9udC1mYWNlIHsKIGZvbnQtZmFtaWx5OiAiRnV0dXJhIEhlYXZ5IjsKIHNyYzogdXJsKCIvZm9udHMvZnV0dXJhX2hlYXZ5X2l0YWxpYy50dGYiKSBmb3JtYXQoInR0ZiIpOwp9CmgxLGgyLGgzLGVtLHNwYW4scHsKIGZvbnQtZmFtaWx5OiJGdXR1cmEgSGVhdnkiOwp9CiNpZGVudGlmaWNhdGlvbnsKICAgIGhlaWdodDogYXV0bzsKICAgIHdpZHRoOiBhdXRvOwogICAgbWFyZ2luIDogNTBweDsKICAgIGJvcmRlciA6IGJsYWNrIHNvbGlkIDFweDsKICAgIGJvcmRlci1yYWRpdXM6IDUwcHg7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiBhenVyZTsKICAgIHBhZGRpbmctYm90dG9tOjUwcHg7Cn0KCiNmb3JtdWxhaXJlewogICAgYmFja2dyb3VuZC1jb2xvcjogYmlzcXVlOwogICAgd2lkdGg6IDQwMHB4OwogICAgZmxleC13cmFwOiB3cmFwOwogICAgaGVpZ2h0OiBhdXRvOwogICAgYm9yZGVyLXJhZGl1czogMTBweDsKICAgIG1hcmdpbjogYXV0bzsKICAgIHBhZGRpbmctYm90dG9tOiAyMHB4Owp9Ci5mb3JtewogICAgbWFyZ2luOmF1dG87CiAgICB3aWR0aDogMzAwcHg7CiAgICBkaXNwbGF5OiBmbGV4OwogICAgZmxleC13cmFwOiB3cmFwOwogICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1hcm91bmQ7Cn0KI2NoYW1wc3sKICAgIGRpc3BsYXk6IGZsZXg7CiAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsKfQoudGl0cmUgewogICAgZm9udC1zaXplOiA2MHB4OwogICAgZm9udC1mYW1pbHk6IEdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBUaW1lcywgc2VyaWY7CiAgICBjb2xvcjogY29yYWw7Cn0KI3RpdHJlZGl2ewogICAgbWFyZ2luOmF1dG87CiAgICB3aWR0aDogMzAwcHg7CiAgICAKfQoudGl0cmVlbXsKICAgIGNvbG9yOiBjb3JuZmxvd2VyYmx1ZTsKfQojYnV0dG9uewogICAgYmFja2dyb3VuZC1jb2xvcjogIzQ5OUNFMjsgYm9yZGVyOiBub25lOyBjb2xvcjogd2hpdGU7IHBhZGRpbmc6IDE2cHggMzJweDsgdGV4dC1hbGlnbjogY2VudGVyOyB0ZXh0LWRlY29yYXRpb246IG5vbmU7IGRpc3BsYXk6IGlubGluZS1ibG9jazsgZm9udC1zaXplOiAxNnB4OyBtYXJnaW46IDRweCAycHg7IGN1cnNvcjogcG9pbnRlcjsgYm9yZGVyLXJhZGl1czogMTBweDs7Cn0KaW5wdXR7CiAgICB3aWR0aDogMjAwcHg7Cn0KLmZvcm1DaGFtcHN7CiAgICBwYWRkaW5nLWJvdHRvbTogNXB4OzsKfQouY2hhbXBzewogICAgY29sb3I6IGNvcmFsOwogICAgbWFyZ2luOjVweDsKICAgIGZvbnQtZmFtaWx5OiAnTHVjaWRhIFNhbnMnLCAnTHVjaWRhIFNhbnMgUmVndWxhcicsICdMdWNpZGEgR3JhbmRlJywgJ0x1Y2lkYSBTYW5zIFVuaWNvZGUnLCBHZW5ldmEsIFZlcmRhbmEsIHNhbnMtc2VyaWY7Cn0KI2NoYW1wc0NyeXB0ewogICAgZGlzcGxheTogZmxleGJveDsKICAgIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47CiAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsKfQouY2hhbXBzMnsKICAgIHdpZHRoOiA1MHB4Owp9Ci5idXR0b24yewogICAgYmFja2dyb3VuZC1jb2xvcjogIzgwOUNGODsgYm9yZGVyOiBub25lOyBjb2xvcjogd2hpdGU7IHBhZGRpbmc6IDE2cHggMzJweDsgdGV4dC1hbGlnbjogY2VudGVyOyB0ZXh0LWRlY29yYXRpb246IG5vbmU7IGRpc3BsYXk6IGlubGluZS1ibG9jazsgZm9udC1zaXplOiAxNnB4OyBtYXJnaW46IDRweCAycHg7IGN1cnNvcjogcG9pbnRlcjsgYm9yZGVyLXJhZGl1czogMTBweDs7Cn0KdGV4dGFyZWF7CiAgICBib3JkZXI6IHNvbGlkIGNvcmFsIDVweDsKICAgIGJvcmRlci1yYWRpdXM6IDEwcHg7CiAgICByZXNpemU6IG5vbmU7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiBiaXNxdWU7CiAgICBmb250LWZhbWlseTogJ1NlZ29lIFVJJywgVGFob21hLCBHZW5ldmEsIFZlcmRhbmEsIHNhbnMtc2VyaWY7CiAgICBjb2xvcjogICBjb3JuZmxvd2VyYmx1ZTsKfQpzZWxlY3R7CiAgICBib3JkZXI6IG5vbmU7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiBiaXNxdWU7CiAgICBjb2xvcjogY29yYWw7CiAgICBmb250LWZhbWlseTogJ1RyZWJ1Y2hldCBNUycsICdMdWNpZGEgU2FucyBVbmljb2RlJywgJ0x1Y2lkYSBHcmFuZGUnLCAnTHVjaWRhIFNhbnMnLCBBcmlhbCwgc2Fucy1zZXJpZjsKfQojZm9ybXVsYWlyZUNyeXB0ewogICAgYmFja2dyb3VuZC1jb2xvcjogYmlzcXVlOwogICAgd2lkdGg6IDQwMHB4OwogICAgZmxleC13cmFwOiB3cmFwOwogICAgaGVpZ2h0OiBhdXRvOwogICAgYm9yZGVyLXJhZGl1czogMTBweDsKICAgIG1hcmdpbjogYXV0bzsKICAgIHBhZGRpbmc6IDIwcHg7CiAgICBkaXNwbGF5OiBmbGV4OwogICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7CiAgICBib3gtc2l6aW5nOiBib3JkZXItYm94Owp9CiNkZWNvbm5leGlvbnsKICAgIGRpc3BsYXk6IGZsZXg7CiAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsKfQouY2hpZmZyZXsKICAgIGNvbG9yOiByZ2IoMjIsIDUwLCAxMDIpOwogICAgd2lkdGg6IDIwMHB4OwogICAgdGV4dC1hbGlnbjogY2VudGVyOwp9Ci5jbGV7CiAgICBjb2xvcjojNjk5ZWM3Owp9CiNtZXNzYWdlQ2hpZmZyZXsKICAgIG1hcmdpbjogYXV0bzsKfQoubWVzc2FnZWNoaWZmcmV7CiAgICBtYXJnaW4tcmlnaHQ6MTAlOwp9Ci8qIAoKU2VjU3Bpcml0IC0gMjAyMAoKKi8=
+/* 
+
+SecSpirit - 2020
+
+*/
+@font-face {
+ font-family: "Futura Heavy";
+ src: url("/fonts/futura_heavy_italic.ttf") format("ttf");
+}
+h1,h2,h3,em,span,p{
+ font-family:"Futura Heavy";
+}
+#identification{
+    height: auto;
+    width: auto;
+    margin : 50px;
+    border : black solid 1px;
+    border-radius: 50px;
+    background-color: azure;
+    padding-bottom:50px;
+}
+
+#formulaire{
+    background-color: bisque;
+    width: 400px;
+    flex-wrap: wrap;
+    height: auto;
+    border-radius: 10px;
+    margin: auto;
+    padding-bottom: 20px;
+}
+.form{
+    margin:auto;
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+#champs{
+    display: flex;
+    justify-content: center;
+}
+.titre {
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: coral;
+}
+#titrediv{
+    margin:auto;
+    width: 300px;
+    
+}
+.titreem{
+    color: cornflowerblue;
+}
+#button{
+    background-color: #499CE2; border: none; color: white; padding: 16px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 10px;;
+}
+input{
+    width: 200px;
+}
+.formChamps{
+    padding-bottom: 5px;;
+}
+.champs{
+    color: coral;
+    margin:5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#champsCrypt{
+    display: flexbox;
+    flex-direction: column;
+    justify-content: center;
+}
+.champs2{
+    width: 50px;
+}
+.button2{
+    background-color: #809CF8; border: none; color: white; padding: 16px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 10px;;
+}
+textarea{
+    border: solid coral 5px;
+    border-radius: 10px;
+    resize: none;
+    background-color: bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:   cornflowerblue;
+}
+select{
+    border: none;
+    background-color: bisque;
+    color: coral;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#formulaireCrypt{
+    background-color: bisque;
+    width: 400px;
+    flex-wrap: wrap;
+    height: auto;
+    border-radius: 10px;
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+}
+#deconnexion{
+    display: flex;
+    justify-content: center;
+}
+.chiffre{
+    color: rgb(22, 50, 102);
+    width: 200px;
+    text-align: center;
+}
+.cle{
+    color:#699ec7;
+}
+#messageChiffre{
+    margin: auto;
+}
+.messagechiffre{
+    margin-right:10%;
+}
+/* 
+
+SecSpirit - 2020
+
+*/
